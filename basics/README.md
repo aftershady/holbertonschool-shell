@@ -1,1 +1,1 @@
-this directory have a file who display the path of th current working directory
+this directory have a file who display the path of th current working directory.
