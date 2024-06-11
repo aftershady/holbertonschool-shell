@@ -1,1 +1,2 @@
 #!/bin/bash
+if !(chmod guillaume hello) ; then chmod vincent hello
