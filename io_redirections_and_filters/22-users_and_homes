@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ":" -f 1,6-8 passwd
+cut -d ":" -f 1,7 passwd
