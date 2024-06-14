@@ -1,2 +1,1 @@
-root of the repository holbertonschool/shell. This repository contain:
--a basics directory with executables files who output ssh command
+root of the repository holbertonschool/shell. This repository contain four directories with examples of shell commands from basic to avanced
