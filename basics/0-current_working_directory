@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd # display the actual path 
+pwd # display path 
