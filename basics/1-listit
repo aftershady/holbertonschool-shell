@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+ls #list all the files in the current dir
