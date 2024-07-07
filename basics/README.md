@@ -51,8 +51,10 @@
 
 14-copy_html
 #command for copiing files
+
 15-lets_move 
 #mv all files starting by capitals letter
+
 16-clean_emacs
 #rm all emacs buffer files
 
