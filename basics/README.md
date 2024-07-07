@@ -1,21 +1,61 @@
-This directory contain folders who print theses commands :
+#################################################################################
+#  __| |_  ___| | | | |__  __ _ __(_)__ ___
+# (_-< ' \/ -_) | | | '_ \/ _` (_-< / _(_-<
+# /__/_||_\___|_|_| |_.__/\__,_/__/_\__/__/
+#################################################################################
 
+#This directory contain scripts :
+-------------------------------------------------------------------------
+0-current_working_directory
+#printf current wd
 
-0-current_working_directory : pwd
-1-listit : ls
-2-bring_me_home : cd
-3-listfiles : ls -l
-4-listmorefiles : ls -la
-5-listfilesdigitonly : ls -lna
-6-firstdirectory : mkdir /tmp/my_first_directory
-7-movethatfile : mv /tmp/betty /tmp/my_first_directory/betty
-8-firstdelete : rm /tmp/my_first_directory/betty
-9-firstdirdeletion : rmdir /tmp/my_first_directory
-10-back : cd -
-11-lists : ls -la . .. /boot
-12-file_type : file /tmp/iamafile
-13-symbolic_link : ln -s /bin/ls __ls__
-14-copy_html : cp -u *.html .. 
-15-lets_move : mv ./[A-Z]* /tmp/u
-16-clean_emacs : rm *~
-17-tree : mkdir -p welcome/to/school
+1-listit
+#print list of files
+
+2-bring_me_home
+#return to root
+
+3-listfiles
+#print detailled list of files
+
+4-listmorefiles 
+#print detailled list of files including hinding files
+
+5-listfilesdigitonly 
+#print detailled list of files including hinding files with 
+#numerical user and group IDs instead of names
+
+6-firstdirectory 
+#create directory
+
+7-movethatfile 
+#command for move files
+
+8-firstdelete
+#command for delete files
+
+9-firstdirdeletion 
+#commande for deletes directory
+
+10-back
+#return to the previous path
+
+11-lists : 
+#ls int other directories
+
+12-file_type
+#print the type of file
+
+13-symbolic_link 
+#create de symbolic link for a file, if the file is rm, the symbolic link will no longer work
+
+14-copy_html
+#command for copiing files
+15-lets_move 
+#mv all files starting by capitals letter
+16-clean_emacs
+#rm all emacs buffer files
+
+17-tree 
+#create arborescence of multiple directoriez
+
