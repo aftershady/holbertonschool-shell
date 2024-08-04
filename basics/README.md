@@ -1,6 +1,6 @@
-#basics shell commands
+## basics shell commands
 
-#This directory contain scripts :
+# This directory contain scripts :
 
 0-current_working_directory
 printf current wd
