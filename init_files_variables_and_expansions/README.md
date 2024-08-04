@@ -1,6 +1,6 @@
-#init files, variables and expansions
+## init files, variables and expansions
 
-#this directory contain executable script :
+# this directory contain executable script :
 
 0-alias : alias ls="rm *"
 define an alias
