@@ -1,4 +1,6 @@
-this directory contain executables scripts such as :
+## permission
+
+# this directory contain executables scripts such as :
 
 0-iam_betty :su betty
 1-who_am_i :  whoami
@@ -11,7 +13,7 @@ this directory contain executables scripts such as :
 8-James_Bond : chmod 007 hello
 9-John_Doe: chmod 753 hello
 10-mirror_permissions: chmod --reference=olleh hello
-11-directories_permissions: chmod a+x */ 
+11-directories_permissions: chmod a+x */
 12-directory_permissions: mkdir -m 751 my_dir
 13-change_group: chown root:school hello
 14-change_owner_and_group: chown vincent:staff *
